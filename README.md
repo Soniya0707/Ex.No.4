@@ -1,6 +1,6 @@
 # Ex.No.4 – Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 ## DATE: 19.05.2026
-## REG NO: 2122230060268
+## REG NO: 212223060268
 
 ## Aim
 To design an AI-powered virtual assistant for a healthcare appointment management system that helps patients schedule appointments, receive medication reminders, check doctor availability, and answer general healthcare-related inquiries. The chatbot should communicate clearly, professionally, and empathetically while ensuring efficient patient interaction. In this experiment, different prompting techniques are applied to analyze chatbot performance under multiple healthcare scenarios.
