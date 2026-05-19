@@ -1,6 +1,6 @@
 # Ex.No.4 – Scenario-Based Report Development Utilizing Diverse Prompting Techniques
-*DATE:* 19.05.2026
-*REG NO:* 2122230060268
+## DATE: 19.05.2026
+## REG NO: 2122230060268
 
 ## Aim
 To design an AI-powered virtual assistant for a healthcare appointment management system that helps patients schedule appointments, receive medication reminders, check doctor availability, and answer general healthcare-related inquiries. The chatbot should communicate clearly, professionally, and empathetically while ensuring efficient patient interaction. In this experiment, different prompting techniques are applied to analyze chatbot performance under multiple healthcare scenarios.
@@ -11,6 +11,9 @@ To design an AI-powered virtual assistant for a healthcare appointment managemen
 * Provide information about doctor availability
 * Handle patient complaints and rescheduling requests politely
 * Answer common healthcare-related FAQs
+
+  <img width="1024" height="688" alt="image" src="https://github.com/user-attachments/assets/025a436a-2b66-4ccd-a603-0c00d0fe6648" />
+
 
 ## Selection of Prompting Techniques
 Different prompting techniques such as Zero-shot, One-shot, Few-shot, Chain-of-Thought, Role Prompting, ReAct Prompting, Reflection Prompting, and Tree-of-Thought Prompting were selected to evaluate chatbot behavior in realistic healthcare situations.
